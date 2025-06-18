@@ -5,7 +5,7 @@
 	<TargetFramework>net8.0</TargetFramework>
 	<ImplicitUsings>enable</ImplicitUsings>
 	<Nullable>enable</Nullable>
-	  <StartupObject>LogicalProgramsCSharp.StringReverse</StartupObject>
+	  <StartupObject>LogicalProgramsCSharp.WordCount</StartupObject>
   </PropertyGroup>
 
 </Project>
