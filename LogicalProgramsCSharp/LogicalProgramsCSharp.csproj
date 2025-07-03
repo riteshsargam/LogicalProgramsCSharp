@@ -5,7 +5,7 @@
 	<TargetFramework>net8.0</TargetFramework>
 	<ImplicitUsings>enable</ImplicitUsings>
 	<Nullable>enable</Nullable>
-	  <StartupObject>LogicalProgramsCSharp.QuickSort</StartupObject>
+	  <StartupObject>LogicalProgramsCSharp.Pattern1</StartupObject>
   </PropertyGroup>
 
 </Project>
